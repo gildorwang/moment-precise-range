@@ -1,0 +1,22 @@
+{
+  "name": "moment-precise-range-gildorwang",
+  "version": "1.0.0",
+  "homepage": "https://github.com/gildorwang/moment-precise-range",
+  "authors": [
+    "Gildor <gildorwang@gmail.com>"
+  ],
+  "description": "This is a plugin for the moment.js JavaScript library, to display date/time ranges precisely, in a human-readable format.",
+  "main": "readable-range.js",
+  "keywords": [
+    "moment-precise-range"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests",
+    "readable-range-test.js"
+  ]
+}
